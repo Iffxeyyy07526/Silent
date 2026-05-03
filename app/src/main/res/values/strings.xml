@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SilentExfiltrator</string>
+    <string name="accessibility_desc">Stealth Telegram Exfiltration Service</string>
+</resources>
